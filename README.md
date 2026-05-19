@@ -967,7 +967,19 @@ The long-term vision is not to replace expert curation, but to make expert curat
 
 ---
 
+## AI Usage Declaration
+
+This project was developed with assistance from AI tools, especially **ChatGPT (OpenAI)**, during early ideation, documentation drafting, dataset design, test planning, and prototype code generation.
+
+---
+
 ## Author
 
 This project is curated by **Adhityo Wicaksono**.
 Plant molecular biologist and bioinformatician.
+
+---
+
+## License
+
+**MIT License** is recommended for this repository.
