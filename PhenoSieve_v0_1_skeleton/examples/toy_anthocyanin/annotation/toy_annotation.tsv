@@ -1,0 +1,7 @@
+gene_id	species	source	gene_symbol	aliases	annotation_text	ko	ec	pfam	interpro	go	best_hit	evalue	bitscore	notes
+AT5G13930	Arabidopsis_thaliana	manual	CHS	TT4; chalcone synthase	chalcone synthase	K00660	2.3.1.74	PF00195	IPR018088	GO:0009813	TT4_ARATH	1e-100	400	positive control
+AT3G55120	Arabidopsis_thaliana	manual	CHI	TT5; chalcone isomerase	chalcone isomerase	K01859	5.5.1.6	PF02431	IPR016087	GO:0009813	TT5_ARATH	1e-90	350	positive control
+AT5G42800	Arabidopsis_thaliana	manual	DFR	TT3; dihydroflavonol reductase	dihydroflavonol reductase	K13082	1.1.1.219	PF00106	IPR016040	GO:0045552	TT3_ARATH	1e-80	300	positive control
+AT4G22880	Arabidopsis_thaliana	manual	ANS	TT18; LDOX; anthocyanidin synthase	leucoanthocyanidin dioxygenase	K05277	1.14.20.4	PF03171	IPR005123	GO:0009813	TT18_ARATH	1e-75	290	positive control
+AT5G17050	Arabidopsis_thaliana	manual	UGT78D2	UDP-glucose flavonoid glucosyltransferase	UDP-glucose flavonoid glucosyltransferase	K12930	2.4.1.x	PF00201	IPR002213	GO:0009813	UGT78D2_ARATH	1e-60	250	optional positive control
+AT1G00010	Arabidopsis_thaliana	manual	FAKE1		housekeeping-like unrelated protein						FAKE_ARATH	1e-20	100	negative control

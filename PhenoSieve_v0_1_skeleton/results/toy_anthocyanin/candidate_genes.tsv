@@ -1,0 +1,18 @@
+module	expected_gene	required	gene_id	species	annotation_gene_symbol	annotation_text	matched_fields	matched_values	evidence_count	status
+anthocyanin	CHS	yes	AT5G13930	Arabidopsis_thaliana	CHS	chalcone synthase	ec;go;interpro;keyword;ko;pfam;symbol_or_alias	2.3.1.74;chalcone synthase;chs;go:0009813;ipr018088;k00660;pf00195;tt4;tt4; chalcone synthase	9	candidate
+anthocyanin	CHS	yes	AT3G55120	Arabidopsis_thaliana	CHI	chalcone isomerase	go	go:0009813	1	candidate
+anthocyanin	CHS	yes	AT4G22880	Arabidopsis_thaliana	ANS	leucoanthocyanidin dioxygenase	go	go:0009813	1	candidate
+anthocyanin	CHS	yes	AT5G17050	Arabidopsis_thaliana	UGT78D2	UDP-glucose flavonoid glucosyltransferase	go	go:0009813	1	candidate
+anthocyanin	CHI	yes	AT5G13930	Arabidopsis_thaliana	CHS	chalcone synthase	go	go:0009813	1	candidate
+anthocyanin	CHI	yes	AT3G55120	Arabidopsis_thaliana	CHI	chalcone isomerase	ec;go;interpro;keyword;ko;pfam;symbol_or_alias	5.5.1.6;chalcone isomerase;chi;go:0009813;ipr016087;k01859;pf02431;tt5;tt5; chalcone isomerase	9	candidate
+anthocyanin	CHI	yes	AT4G22880	Arabidopsis_thaliana	ANS	leucoanthocyanidin dioxygenase	go	go:0009813	1	candidate
+anthocyanin	CHI	yes	AT5G17050	Arabidopsis_thaliana	UGT78D2	UDP-glucose flavonoid glucosyltransferase	go	go:0009813	1	candidate
+anthocyanin	DFR	yes	AT5G42800	Arabidopsis_thaliana	DFR	dihydroflavonol reductase	ec;go;interpro;keyword;ko;pfam;symbol_or_alias	1.1.1.219;dfr;dihydroflavonol reductase;go:0045552;ipr016040;k13082;pf00106;tt3;tt3; dihydroflavonol reductase	9	candidate
+anthocyanin	ANS	yes	AT5G13930	Arabidopsis_thaliana	CHS	chalcone synthase	go	go:0009813	1	candidate
+anthocyanin	ANS	yes	AT3G55120	Arabidopsis_thaliana	CHI	chalcone isomerase	go	go:0009813	1	candidate
+anthocyanin	ANS	yes	AT4G22880	Arabidopsis_thaliana	ANS	leucoanthocyanidin dioxygenase	ec;go;interpro;keyword;ko;pfam;symbol_or_alias	1.14.20.4;ans;anthocyanidin synthase;go:0009813;ipr005123;k05277;ldox;leucoanthocyanidin dioxygenase;pf03171;tt18;tt18; ldox; anthocyanidin synthase	11	candidate
+anthocyanin	ANS	yes	AT5G17050	Arabidopsis_thaliana	UGT78D2	UDP-glucose flavonoid glucosyltransferase	go;keyword	ans;go:0009813	2	candidate
+anthocyanin	UFGT	no	AT5G13930	Arabidopsis_thaliana	CHS	chalcone synthase	go	go:0009813	1	candidate
+anthocyanin	UFGT	no	AT3G55120	Arabidopsis_thaliana	CHI	chalcone isomerase	go	go:0009813	1	candidate
+anthocyanin	UFGT	no	AT4G22880	Arabidopsis_thaliana	ANS	leucoanthocyanidin dioxygenase	go	go:0009813	1	candidate
+anthocyanin	UFGT	no	AT5G17050	Arabidopsis_thaliana	UGT78D2	UDP-glucose flavonoid glucosyltransferase	ec;go;interpro;keyword;ko;pfam;symbol_or_alias	2.4.1.x;go:0009813;ipr002213;k12930;pf00201;udp-glucose flavonoid glucosyltransferase;ugt78d2	7	candidate
