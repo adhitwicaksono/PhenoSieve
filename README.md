@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/phenosieve_banner.png" alt="PhenoSieve project banner" width="100%">
+</p>
+
 # PhenoSieve
 
 **PhenoSieve** is a small Python toolkit for **curated gene-set sequence extraction and audit** in comparative genomics.
