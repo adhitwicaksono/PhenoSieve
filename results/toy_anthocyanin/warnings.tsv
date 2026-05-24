@@ -1,0 +1,5 @@
+module	expected_gene	warning_type	message
+anthocyanin	CHS	duplicated	4 candidate genes detected
+anthocyanin	CHI	duplicated	4 candidate genes detected
+anthocyanin	ANS	duplicated	4 candidate genes detected
+anthocyanin	UFGT	duplicated	4 candidate genes detected
