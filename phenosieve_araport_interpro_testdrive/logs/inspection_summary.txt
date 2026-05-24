@@ -1,0 +1,32 @@
+Inspection summary
+==================
+
+Araport peptide entries: 27650
+Araport CDS entries: 27562
+Shared loci: 27561
+Peptide-only loci: 89
+CDS-only loci: 1
+
+InterPro entry count: 51489
+InterPro entry type counts: {'Active_site': 133, 'Binding_site': 82, 'Conserved_site': 768, 'Domain': 19276, 'Family': 27308, 'Homologous_superfamily': 3510, 'PTM': 17, 'Repeat': 395}
+InterPro2GO mapping lines: 30200
+Unique IPR in InterPro2GO: 14799
+
+Known anthocyanin demo genes detected:
+- CHS (AT5G13930)
+- CHI (AT3G55120)
+- F3H (AT3G51240)
+- F3H/F3'H (AT5G07990)
+- DFR (AT5G42800)
+- ANS (AT4G22880)
+- UGT78D2 (AT5G17050)
+- TT19 (AT5G17220)
+- TT12 (AT3G59030)
+- TT2 (AT5G35550)
+- TT8 (AT4G09820)
+- TTG1 (AT5G24520)
+- TTG2 (AT2G37260)
+- PAP1 (AT1G56650)
+- PAP2 (AT1G66390)
+- GL3 (AT5G41315)
+- EGL3 (AT1G63650)

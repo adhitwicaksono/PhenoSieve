@@ -1,0 +1,38 @@
+ENTRY_AC	ENTRY_TYPE	ENTRY_NAME	used_in_module
+IPR001005	Domain	SANT/Myb domain	MYB_regulators
+IPR001099	Domain	Chalcone/stilbene synthase, N-terminal	CHS
+IPR001128	Family	Cytochrome P450	F3H/F3'H
+IPR001632	Domain	G-protein beta subunit-like, WD40 repeats	WD40_regulators
+IPR001680	Repeat	WD40 repeat	WD40_regulators
+IPR002347	Family	Short-chain dehydrogenase/reductase SDR	DFR
+IPR003657	Domain	WRKY domain	WRKY_regulators
+IPR004045	Domain	Glutathione S-transferase, N-terminal	TT19
+IPR004046	Domain	Glutathione S-transferase, C-terminal	TT19
+IPR005123	Domain	Oxoglutarate/iron-dependent dioxygenase domain	ANS;F3H
+IPR006447	Domain	Myb domain, plants	MYB_regulators
+IPR011598	Domain	Myc-type, basic helix-loop-helix (bHLH) domain	bHLH_regulators
+IPR012328	Domain	Chalcone/stilbene synthase, C-terminal	CHS
+IPR015495	Family	Myb transcription factor, plants	MYB_regulators
+IPR016087	Domain	Chalcone isomerase	CHI
+IPR017930	Domain	Myb domain	MYB_regulators
+IPR017972	Conserved_site	Cytochrome P450, conserved site	F3H/F3'H
+IPR018088	Active_site	Chalcone/stilbene synthase, active site	CHS
+IPR018724	Family	2OG-Fe dioxygenase	ANS;F3H
+IPR019775	Conserved_site	WD40 repeat, conserved site	WD40_regulators
+IPR020904	Conserved_site	Short-chain dehydrogenase/reductase, conserved site	DFR
+IPR034347	Domain	Glutathione S-transferases Phi, C-terminal	TT19
+IPR035595	Conserved_site	UDP-glycosyltransferase family, conserved site	UGT78D2
+IPR036298	Homologous_superfamily	Chalcone isomerase superfamily	CHI
+IPR036322	Homologous_superfamily	WD40-repeat-containing domain superfamily	WD40_regulators
+IPR036576	Homologous_superfamily	WRKY domain superfamily	WRKY_regulators
+IPR040518	Domain	Chalcone isomerase, N-terminal	CHI
+IPR044164	Family	Chalcone--flavonone isomerase	CHI
+IPR044810	Family	WRKY transcription factor, plant	WRKY_regulators
+IPR045069	Family	Multidrug and toxic compound extrusion family, eukaryotic	TT12
+IPR045070	Family	Multidrug and toxic compound extrusion MepA-like	TT12
+IPR050193	Family	Plant Cytochrome P450 71	F3H/F3'H
+IPR050213	Family	Glutathione S-transferase superfamily	TT19
+IPR050271	Family	UDP-glycosyltransferase	UGT78D2
+IPR050481	Family	UDP-glycosyltransferase, plant-type	UGT78D2
+IPR052538	Family	Flavonoid dioxygenase-like	ANS;F3H
+IPR054502	Domain	Plant bHLH transcription factor, ACT-like domain	bHLH_regulators

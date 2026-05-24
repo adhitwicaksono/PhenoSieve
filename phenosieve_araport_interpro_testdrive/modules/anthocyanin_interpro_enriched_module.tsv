@@ -1,0 +1,14 @@
+module	gene_symbol	aliases	keywords	ko	ec	interpro	go	required	notes
+anthocyanin	CHS	TT4; chalcone synthase	chalcone synthase; naringenin-chalcone synthase	K00660	2.3.1.74	IPR001099;IPR012328;IPR018088		yes	broad InterPro support for chalcone/stilbene synthase
+anthocyanin	CHI	TT5; chalcone isomerase	chalcone isomerase; chalcone flavanone isomerase	K01859	5.5.1.6	IPR016087;IPR040518;IPR044164;IPR036298		yes	InterPro has chalcone isomerase domain/family/superfamily terms
+anthocyanin	F3H	TT6; flavanone 3-hydroxylase	flavanone 3-hydroxylase; 2-oxoglutarate-dependent dioxygenase	K00475	1.14.11.9	IPR005123;IPR018724;IPR052538		yes	broad 2OG-Fe oxygenase/flavonoid dioxygenase evidence, not F3H-specific
+anthocyanin	F3H/F3'H	TT7; CYP75B1	cytochrome P450; flavonoid 3'-hydroxylase	K05280		IPR001128;IPR017972;IPR050193		yes	broad cytochrome P450/plant P450 evidence, not CYP75B1-specific
+anthocyanin	DFR	TT3; dihydroflavonol reductase	dihydroflavonol reductase; short-chain dehydrogenase/reductase	K13082	1.1.1.219	IPR002347;IPR020904		yes	broad SDR evidence, not DFR-specific
+anthocyanin	ANS	TT18; LDOX; anthocyanidin synthase	anthocyanidin synthase; leucoanthocyanidin dioxygenase; 2OG-Fe oxygenase	K05277	1.14.20.4	IPR005123;IPR018724;IPR052538		yes	broad 2OG-Fe oxygenase/flavonoid dioxygenase evidence, not ANS-specific
+anthocyanin	UGT78D2	UDP-glucose flavonoid glucosyltransferase	UDP-glucose flavonoid glucosyltransferase; UDP-glycosyltransferase	K12930	2.4.1.x	IPR035595;IPR050271;IPR050481		no	broad UDP-glycosyltransferase evidence
+anthocyanin	TT19	GSTF12; glutathione S-transferase	glutathione S-transferase; anthocyanin transport			IPR004045;IPR004046;IPR034347;IPR050213		no	GST evidence; function needs biological/context support
+anthocyanin	TT12	MATE transporter	MATE transporter; multidrug and toxic compound extrusion			IPR045069;IPR045070		no	MATE/eukaryotic multidrug extrusion evidence
+anthocyanin	MYB_regulators	TT2; PAP1; PAP2; MYB75; MYB90; MYB123	MYB transcription factor; R2R3-MYB; production of anthocyanin pigment			IPR001005;IPR006447;IPR017930;IPR015495		no	broad plant MYB regulator evidence
+anthocyanin	bHLH_regulators	TT8; GL3; EGL3; bHLH	basic helix-loop-helix; bHLH transcription factor			IPR011598;IPR054502		no	broad bHLH regulator evidence
+anthocyanin	WD40_regulators	TTG1; WD40	WD40 repeat protein			IPR019775;IPR001632;IPR001680;IPR036322		no	broad WD40 evidence
+anthocyanin	WRKY_regulators	TTG2; WRKY44	WRKY transcription factor			IPR003657;IPR044810;IPR036576		no	broad WRKY evidence

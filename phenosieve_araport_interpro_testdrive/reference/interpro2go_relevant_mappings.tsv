@@ -1,0 +1,27 @@
+interpro_id	interpro_name	go_name	go_id
+IPR001128	Cytochrome P450	monooxygenase activity	GO:0004497
+IPR001128	Cytochrome P450	iron ion binding	GO:0005506
+IPR001128	Cytochrome P450	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen	GO:0016705
+IPR001128	Cytochrome P450	heme binding	GO:0020037
+IPR001680	WD40 repeat	protein binding	GO:0005515
+IPR003657	WRKY domain	DNA-binding transcription factor activity	GO:0003700
+IPR003657	WRKY domain	sequence-specific DNA binding	GO:0043565
+IPR003657	WRKY domain	regulation of DNA-templated transcription	GO:0006355
+IPR006447	Myb domain, plants	DNA binding	GO:0003677
+IPR011598	Myc-type, basic helix-loop-helix (bHLH) domain	protein dimerization activity	GO:0046983
+IPR017972	Cytochrome P450, conserved site	iron ion binding	GO:0005506
+IPR017972	Cytochrome P450, conserved site	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen	GO:0016705
+IPR018088	Chalcone/stilbene synthase, active site	acyltransferase activity	GO:0016746
+IPR018088	Chalcone/stilbene synthase, active site	biosynthetic process	GO:0009058
+IPR018724	2OG-Fe dioxygenase	dioxygenase activity	GO:0051213
+IPR036298	Chalcone isomerase superfamily	intramolecular lyase activity	GO:0016872
+IPR036322	WD40-repeat-containing domain superfamily	protein binding	GO:0005515
+IPR036576	WRKY domain superfamily	DNA-binding transcription factor activity	GO:0003700
+IPR036576	WRKY domain superfamily	sequence-specific DNA binding	GO:0043565
+IPR036576	WRKY domain superfamily	regulation of DNA-templated transcription	GO:0006355
+IPR044164	Chalcone--flavonone isomerase	chalcone isomerase activity	GO:0045430
+IPR044164	Chalcone--flavonone isomerase	flavonoid biosynthetic process	GO:0009813
+IPR044810	WRKY transcription factor, plant	DNA-binding transcription factor activity	GO:0003700
+IPR045069	Multidrug and toxic compound extrusion family, eukaryotic	xenobiotic transmembrane transporter activity	GO:0042910
+IPR045069	Multidrug and toxic compound extrusion family, eukaryotic	xenobiotic detoxification by transmembrane export across the plasma membrane	GO:1990961
+IPR050481	UDP-glycosyltransferase, plant-type	UDP-glucosyltransferase activity	GO:0035251

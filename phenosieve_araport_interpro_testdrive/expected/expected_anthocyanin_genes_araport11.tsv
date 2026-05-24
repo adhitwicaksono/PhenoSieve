@@ -1,0 +1,18 @@
+module	gene_symbol	locus_id	aliases	expected_function	pep_id	cds_id	pep_found	cds_found
+anthocyanin_core	CHS	AT5G13930	TT4; ATCHS; chalcone synthase	chalcone synthase	AT5G13930.1	AT5G13930.1	True	True
+anthocyanin_core	CHI	AT3G55120	TT5; CFI; AtCHI	chalcone isomerase	AT3G55120.1	AT3G55120.1	True	True
+anthocyanin_core	F3H	AT3G51240	TT6; flavanone 3-hydroxylase	flavanone 3-hydroxylase	AT3G51240.1	AT3G51240.1	True	True
+anthocyanin_core	F3H/F3'H	AT5G07990	TT7; CYP75B1	cytochrome P450 75B1 / flavonoid hydroxylase	AT5G07990.1	AT5G07990.1	True	True
+anthocyanin_core	DFR	AT5G42800	TT3; dihydroflavonol 4-reductase	dihydroflavonol reductase	AT5G42800.1	AT5G42800.1	True	True
+anthocyanin_core	ANS	AT4G22880	TT18; LDOX; TDS4	anthocyanidin synthase / leucoanthocyanidin dioxygenase	AT4G22880.1	AT4G22880.1	True	True
+anthocyanin_core	UGT78D2	AT5G17050	UDP-glucosyl transferase 78D2	flavonoid glucosyltransferase	AT5G17050.1	AT5G17050.1	True	True
+transport_storage	TT19	AT5G17220	GSTF12; GST26	glutathione S-transferase anthocyanin transport/storage	AT5G17220.1	AT5G17220.1	True	True
+transport_storage	TT12	AT3G59030	MATE transporter	transparent testa 12 / MATE transporter	AT3G59030.1	AT3G59030.1	True	True
+regulatory	TT2	AT5G35550	MYB123; ATMYB123	R2R3-MYB regulator	AT5G35550.2	AT5G35550.2	True	True
+regulatory	TT8	AT4G09820	BHLH42; AtTT8	bHLH regulator	AT4G09820.1	AT4G09820.1	True	True
+regulatory	TTG1	AT5G24520	WD40; ATTTG1	WD40 repeat regulator	AT5G24520.1	AT5G24520.1	True	True
+regulatory	TTG2	AT2G37260	WRKY44; DSL1	WRKY regulator	AT2G37260.1	AT2G37260.1	True	True
+regulatory	PAP1	AT1G56650	MYB75; AtPAP1	production of anthocyanin pigment 1	AT1G56650.1	AT1G56650.1	True	True
+regulatory	PAP2	AT1G66390	MYB90	production of anthocyanin pigment 2	AT1G66390.1	AT1G66390.1	True	True
+regulatory	GL3	AT5G41315	bHLH001; MYC6.2	GLABRA 3 bHLH regulator	AT5G41315.2	AT5G41315.2	True	True
+regulatory	EGL3	AT1G63650	bHLH002; EGL1	ENHANCER OF GLABRA 3 bHLH regulator	AT1G63650.1	AT1G63650.1	True	True
