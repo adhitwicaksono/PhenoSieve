@@ -1,0 +1,18 @@
+module	submodule	gene_symbol	locus_id	expected_transcript_id	found_in_pep	found_in_cds	protein_length_aa	cds_length_nt	notes
+anthocyanin_demo	early_flavonoid	CHS	AT5G13930	AT5G13930.1	yes	yes	395	1188	early flavonoid pathway enzyme
+anthocyanin_demo	early_flavonoid	CHI	AT3G55120	AT3G55120.1	yes	yes	246	741	early flavonoid pathway enzyme
+anthocyanin_demo	early_flavonoid	F3H	AT3G51240	AT3G51240.1	yes	yes	358	1077	early flavonoid pathway enzyme
+anthocyanin_demo	branch_modification	F3primeH	AT5G07990	AT5G07990.1	yes	yes	513	1542	hydroxylation branch gene; symbol normalized as F3primeH
+anthocyanin_demo	late_anthocyanin	DFR	AT5G42800	AT5G42800.1	yes	yes	382	1149	late anthocyanin pathway enzyme
+anthocyanin_demo	late_anthocyanin	ANS	AT4G22880	AT4G22880.1	yes	yes	356	1071	late anthocyanin pathway enzyme
+anthocyanin_demo	glycosylation	UGT78D2	AT5G17050	AT5G17050.1	yes	yes	460	1383	anthocyanin/flavonoid glycosylation candidate
+anthocyanin_demo	transport_storage	TT19	AT5G17220	AT5G17220.1	yes	yes	214	645	transport/storage-associated candidate
+anthocyanin_demo	transport_storage	TT12	AT3G59030	AT3G59030.1	yes	yes	507	1524	MATE transporter candidate
+anthocyanin_demo	regulation	TT2	AT5G35550	AT5G35550.1	yes	yes	258	777	regulatory candidate
+anthocyanin_demo	regulation	TT8	AT4G09820	AT4G09820.1	yes	yes	518	1557	regulatory candidate
+anthocyanin_demo	regulation	TTG1	AT5G24520	AT5G24520.1	yes	yes	341	1026	regulatory candidate
+anthocyanin_demo	regulation	TTG2	AT2G37260	AT2G37260.1	yes	yes	429	1290	regulatory candidate
+anthocyanin_demo	regulation	PAP1	AT1G56650	AT1G56650.1	yes	yes	248	747	regulatory candidate
+anthocyanin_demo	regulation	PAP2	AT1G66390	AT1G66390.1	yes	yes	249	750	regulatory candidate
+anthocyanin_demo	regulation	GL3	AT5G41315	AT5G41315.1	yes	yes	637	1914	regulatory candidate
+anthocyanin_demo	regulation	EGL3	AT1G63650	AT1G63650.1	yes	yes	596	1791	regulatory candidate

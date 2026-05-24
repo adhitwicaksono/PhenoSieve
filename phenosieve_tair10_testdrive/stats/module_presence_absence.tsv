@@ -1,0 +1,18 @@
+species	module	gene_symbol	status	copy_number	candidate_ids	notes
+Arabidopsis_thaliana	anthocyanin_demo	CHS	Present	1	AT5G13930.1	early flavonoid pathway enzyme
+Arabidopsis_thaliana	anthocyanin_demo	CHI	Present	1	AT3G55120.1	early flavonoid pathway enzyme
+Arabidopsis_thaliana	anthocyanin_demo	F3H	Present	1	AT3G51240.1	early flavonoid pathway enzyme
+Arabidopsis_thaliana	anthocyanin_demo	F3primeH	Present	1	AT5G07990.1	hydroxylation branch gene; symbol normalized as F3primeH
+Arabidopsis_thaliana	anthocyanin_demo	DFR	Present	1	AT5G42800.1	late anthocyanin pathway enzyme
+Arabidopsis_thaliana	anthocyanin_demo	ANS	Present	1	AT4G22880.1	late anthocyanin pathway enzyme
+Arabidopsis_thaliana	anthocyanin_demo	UGT78D2	Present	1	AT5G17050.1	anthocyanin/flavonoid glycosylation candidate
+Arabidopsis_thaliana	anthocyanin_demo	TT19	Present	1	AT5G17220.1	transport/storage-associated candidate
+Arabidopsis_thaliana	anthocyanin_demo	TT12	Present	1	AT3G59030.1	MATE transporter candidate
+Arabidopsis_thaliana	anthocyanin_demo	TT2	Present	1	AT5G35550.1	regulatory candidate
+Arabidopsis_thaliana	anthocyanin_demo	TT8	Present	1	AT4G09820.1	regulatory candidate
+Arabidopsis_thaliana	anthocyanin_demo	TTG1	Present	1	AT5G24520.1	regulatory candidate
+Arabidopsis_thaliana	anthocyanin_demo	TTG2	Present	1	AT2G37260.1	regulatory candidate
+Arabidopsis_thaliana	anthocyanin_demo	PAP1	Present	1	AT1G56650.1	regulatory candidate
+Arabidopsis_thaliana	anthocyanin_demo	PAP2	Present	1	AT1G66390.1	regulatory candidate
+Arabidopsis_thaliana	anthocyanin_demo	GL3	Present	1	AT5G41315.1	regulatory candidate
+Arabidopsis_thaliana	anthocyanin_demo	EGL3	Present	1	AT1G63650.1	regulatory candidate

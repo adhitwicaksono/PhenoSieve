@@ -1,0 +1,5 @@
+Generated PhenoSieve TAIR10 testdrive.
+Protein entries: 27416
+CDS entries: 27416
+Demo genes: 17
+Present in protein FASTA: 17/17
