@@ -1,0 +1,5 @@
+module	expected_gene	warning_type	message
+aba_signaling_core	PYL	duplicated	4 candidate genes detected
+aba_signaling_core	PP2C	duplicated	4 candidate genes detected
+aba_signaling_core	SnRK2	duplicated	4 candidate genes detected
+aba_signaling_core	ABF	duplicated	4 candidate genes detected

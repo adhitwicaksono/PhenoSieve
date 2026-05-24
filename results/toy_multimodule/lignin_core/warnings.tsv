@@ -1,0 +1,7 @@
+module	expected_gene	warning_type	message
+lignin_core	PAL	duplicated	3 candidate genes detected
+lignin_core	C4H	duplicated	3 candidate genes detected
+lignin_core	4CL	duplicated	3 candidate genes detected
+lignin_core	HCT	duplicated	3 candidate genes detected
+lignin_core	CCR	duplicated	3 candidate genes detected
+lignin_core	CAD	duplicated	3 candidate genes detected

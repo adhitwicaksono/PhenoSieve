@@ -1,0 +1,7 @@
+module	expected_gene	required	status	candidate_count	candidate_gene_ids
+lignin_core	PAL	yes	duplicated	3	TOY_LIG_4CL;TOY_LIG_C4H;TOY_LIG_PAL
+lignin_core	C4H	yes	duplicated	3	TOY_LIG_4CL;TOY_LIG_C4H;TOY_LIG_PAL
+lignin_core	4CL	yes	duplicated	3	TOY_LIG_4CL;TOY_LIG_C4H;TOY_LIG_PAL
+lignin_core	HCT	no	duplicated	3	TOY_LIG_CAD;TOY_LIG_CCR;TOY_LIG_HCT
+lignin_core	CCR	yes	duplicated	3	TOY_LIG_CAD;TOY_LIG_CCR;TOY_LIG_HCT
+lignin_core	CAD	yes	duplicated	3	TOY_LIG_CAD;TOY_LIG_CCR;TOY_LIG_HCT

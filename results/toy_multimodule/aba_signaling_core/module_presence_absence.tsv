@@ -1,0 +1,6 @@
+module	expected_gene	required	status	candidate_count	candidate_gene_ids
+aba_signaling_core	NCED	yes	present	1	TOY_ABA_NCED
+aba_signaling_core	PYL	yes	duplicated	4	TOY_ABA_ABF;TOY_ABA_PP2C;TOY_ABA_PYL;TOY_ABA_SNRK2
+aba_signaling_core	PP2C	yes	duplicated	4	TOY_ABA_ABF;TOY_ABA_PP2C;TOY_ABA_PYL;TOY_ABA_SNRK2
+aba_signaling_core	SnRK2	yes	duplicated	4	TOY_ABA_ABF;TOY_ABA_PP2C;TOY_ABA_PYL;TOY_ABA_SNRK2
+aba_signaling_core	ABF	no	duplicated	4	TOY_ABA_ABF;TOY_ABA_PP2C;TOY_ABA_PYL;TOY_ABA_SNRK2

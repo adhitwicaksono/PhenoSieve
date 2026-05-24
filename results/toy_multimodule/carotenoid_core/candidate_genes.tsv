@@ -1,0 +1,26 @@
+module	expected_gene	required	gene_id	species	annotation_gene_symbol	annotation_text	matched_fields	matched_values	evidence_count	status
+carotenoid_core	PSY	yes	TOY_CAR_PSY	Arabidopsis_thaliana	PSY	phytoene synthase involved in carotenoid biosynthesis	ec;go;interpro;keyword;ko;pfam;symbol_or_alias	2.5.1.32;carotenoid biosynthesis;go:0016117;ipr001441;k02291;pf00494;phytoene synthase;psy	8	candidate
+carotenoid_core	PSY	yes	TOY_CAR_PDS	Arabidopsis_thaliana	PDS	phytoene desaturase involved in carotenoid biosynthesis	go;keyword	carotenoid biosynthesis;go:0016117	2	candidate
+carotenoid_core	PSY	yes	TOY_CAR_ZDS	Arabidopsis_thaliana	ZDS	zeta-carotene desaturase	go	go:0016117	1	candidate
+carotenoid_core	PSY	yes	TOY_CAR_LCYB	Arabidopsis_thaliana	LCYB	lycopene beta cyclase	go	go:0016117	1	candidate
+carotenoid_core	PSY	yes	TOY_CAR_ZEP	Arabidopsis_thaliana	ZEP	zeaxanthin epoxidase xanthophyll cycle	go	go:0016117	1	candidate
+carotenoid_core	PDS	yes	TOY_CAR_PSY	Arabidopsis_thaliana	PSY	phytoene synthase involved in carotenoid biosynthesis	go	go:0016117	1	candidate
+carotenoid_core	PDS	yes	TOY_CAR_PDS	Arabidopsis_thaliana	PDS	phytoene desaturase involved in carotenoid biosynthesis	ec;go;interpro;keyword;ko;pfam;symbol_or_alias	1.3.5.5;go:0016117;ipr001488;k00514;pds;pf01593;phytoene desaturase	7	candidate
+carotenoid_core	PDS	yes	TOY_CAR_ZDS	Arabidopsis_thaliana	ZDS	zeta-carotene desaturase	go;interpro;ko;pfam	go:0016117;ipr001488;k00514;pf01593	4	candidate
+carotenoid_core	PDS	yes	TOY_CAR_LCYB	Arabidopsis_thaliana	LCYB	lycopene beta cyclase	go	go:0016117	1	candidate
+carotenoid_core	PDS	yes	TOY_CAR_ZEP	Arabidopsis_thaliana	ZEP	zeaxanthin epoxidase xanthophyll cycle	go	go:0016117	1	candidate
+carotenoid_core	ZDS	yes	TOY_CAR_PSY	Arabidopsis_thaliana	PSY	phytoene synthase involved in carotenoid biosynthesis	go	go:0016117	1	candidate
+carotenoid_core	ZDS	yes	TOY_CAR_PDS	Arabidopsis_thaliana	PDS	phytoene desaturase involved in carotenoid biosynthesis	go;interpro;ko;pfam	go:0016117;ipr001488;k00514;pf01593	4	candidate
+carotenoid_core	ZDS	yes	TOY_CAR_ZDS	Arabidopsis_thaliana	ZDS	zeta-carotene desaturase	ec;go;interpro;keyword;ko;pfam;symbol_or_alias	1.3.5.-;go:0016117;ipr001488;k00514;pf01593;zds;zeta-carotene desaturase	7	candidate
+carotenoid_core	ZDS	yes	TOY_CAR_LCYB	Arabidopsis_thaliana	LCYB	lycopene beta cyclase	go	go:0016117	1	candidate
+carotenoid_core	ZDS	yes	TOY_CAR_ZEP	Arabidopsis_thaliana	ZEP	zeaxanthin epoxidase xanthophyll cycle	go	go:0016117	1	candidate
+carotenoid_core	LCYB	yes	TOY_CAR_PSY	Arabidopsis_thaliana	PSY	phytoene synthase involved in carotenoid biosynthesis	go	go:0016117	1	candidate
+carotenoid_core	LCYB	yes	TOY_CAR_PDS	Arabidopsis_thaliana	PDS	phytoene desaturase involved in carotenoid biosynthesis	go	go:0016117	1	candidate
+carotenoid_core	LCYB	yes	TOY_CAR_ZDS	Arabidopsis_thaliana	ZDS	zeta-carotene desaturase	go	go:0016117	1	candidate
+carotenoid_core	LCYB	yes	TOY_CAR_LCYB	Arabidopsis_thaliana	LCYB	lycopene beta cyclase	ec;go;interpro;keyword;ko;pfam;symbol_or_alias	5.5.1.19;beta cyclase;go:0016117;ipr008949;k06443;lcyb;lycopene beta cyclase;pf05834	8	candidate
+carotenoid_core	LCYB	yes	TOY_CAR_ZEP	Arabidopsis_thaliana	ZEP	zeaxanthin epoxidase xanthophyll cycle	go	go:0016117	1	candidate
+carotenoid_core	ZEP	no	TOY_CAR_PSY	Arabidopsis_thaliana	PSY	phytoene synthase involved in carotenoid biosynthesis	go	go:0016117	1	candidate
+carotenoid_core	ZEP	no	TOY_CAR_PDS	Arabidopsis_thaliana	PDS	phytoene desaturase involved in carotenoid biosynthesis	go	go:0016117	1	candidate
+carotenoid_core	ZEP	no	TOY_CAR_ZDS	Arabidopsis_thaliana	ZDS	zeta-carotene desaturase	go	go:0016117	1	candidate
+carotenoid_core	ZEP	no	TOY_CAR_LCYB	Arabidopsis_thaliana	LCYB	lycopene beta cyclase	go	go:0016117	1	candidate
+carotenoid_core	ZEP	no	TOY_CAR_ZEP	Arabidopsis_thaliana	ZEP	zeaxanthin epoxidase xanthophyll cycle	ec;go;interpro;keyword;ko;pfam;symbol_or_alias	1.14.15.21;go:0016117;ipr002938;k09838;pf01494;xanthophyll cycle;zeaxanthin epoxidase;zep	8	candidate

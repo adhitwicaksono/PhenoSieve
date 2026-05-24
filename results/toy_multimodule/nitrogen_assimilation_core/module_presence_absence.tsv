@@ -1,0 +1,6 @@
+module	expected_gene	required	status	candidate_count	candidate_gene_ids
+nitrogen_assimilation_core	NR	yes	duplicated	2	TOY_NIT_NIR;TOY_NIT_NR
+nitrogen_assimilation_core	NIR	yes	duplicated	2	TOY_NIT_NIR;TOY_NIT_NR
+nitrogen_assimilation_core	GS	yes	present	1	TOY_NIT_GS
+nitrogen_assimilation_core	GOGAT	yes	duplicated	2	TOY_NIT_GDH;TOY_NIT_GOGAT
+nitrogen_assimilation_core	GDH	no	duplicated	2	TOY_NIT_GDH;TOY_NIT_GOGAT

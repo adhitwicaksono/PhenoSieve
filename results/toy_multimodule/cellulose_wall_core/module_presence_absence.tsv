@@ -1,0 +1,6 @@
+module	expected_gene	required	status	candidate_count	candidate_gene_ids
+cellulose_wall_core	CESA1	yes	duplicated	3	TOY_WALL_CESA1;TOY_WALL_CESA3;TOY_WALL_CESA6
+cellulose_wall_core	CESA3	yes	duplicated	3	TOY_WALL_CESA1;TOY_WALL_CESA3;TOY_WALL_CESA6
+cellulose_wall_core	CESA6	no	duplicated	3	TOY_WALL_CESA1;TOY_WALL_CESA3;TOY_WALL_CESA6
+cellulose_wall_core	XTH	no	present	1	TOY_WALL_XTH
+cellulose_wall_core	EXP	no	present	1	TOY_WALL_EXP

@@ -1,0 +1,19 @@
+module	expected_gene	required	gene_id	species	annotation_gene_symbol	annotation_text	matched_fields	matched_values	evidence_count	status
+lignin_core	PAL	yes	TOY_LIG_PAL	Arabidopsis_thaliana	PAL	phenylalanine ammonia-lyase phenylpropanoid biosynthesis	ec;go;interpro;keyword;ko;pfam;symbol_or_alias	4.3.1.24;go:0009699;ipr001106;k10775;pal;pf00221;phenylalanine ammonia-lyase;phenylpropanoid biosynthesis	8	candidate
+lignin_core	PAL	yes	TOY_LIG_C4H	Arabidopsis_thaliana	C4H	cinnamate 4-hydroxylase cytochrome P450	go	go:0009699	1	candidate
+lignin_core	PAL	yes	TOY_LIG_4CL	Arabidopsis_thaliana	4CL	4-coumarate-CoA ligase	go	go:0009699	1	candidate
+lignin_core	C4H	yes	TOY_LIG_PAL	Arabidopsis_thaliana	PAL	phenylalanine ammonia-lyase phenylpropanoid biosynthesis	go	go:0009699	1	candidate
+lignin_core	C4H	yes	TOY_LIG_C4H	Arabidopsis_thaliana	C4H	cinnamate 4-hydroxylase cytochrome P450	ec;go;interpro;keyword;ko;pfam;symbol_or_alias	1.14.14.91;c4h;cinnamate 4-hydroxylase;cytochrome p450;go:0009699;ipr001128;k00487;pf00067	8	candidate
+lignin_core	C4H	yes	TOY_LIG_4CL	Arabidopsis_thaliana	4CL	4-coumarate-CoA ligase	go	go:0009699	1	candidate
+lignin_core	4CL	yes	TOY_LIG_PAL	Arabidopsis_thaliana	PAL	phenylalanine ammonia-lyase phenylpropanoid biosynthesis	go;keyword	go:0009699;phenylpropanoid biosynthesis	2	candidate
+lignin_core	4CL	yes	TOY_LIG_C4H	Arabidopsis_thaliana	C4H	cinnamate 4-hydroxylase cytochrome P450	go	go:0009699	1	candidate
+lignin_core	4CL	yes	TOY_LIG_4CL	Arabidopsis_thaliana	4CL	4-coumarate-CoA ligase	ec;go;interpro;keyword;ko;pfam;symbol_or_alias	4-coumarate coa ligase;4-coumarate-coa ligase;4cl;6.2.1.12;go:0009699;ipr000873;k01904;pf00501	8	candidate
+lignin_core	HCT	no	TOY_LIG_HCT	Arabidopsis_thaliana	HCT	hydroxycinnamoyl transferase	ec;go;interpro;keyword;ko;pfam;symbol_or_alias	2.3.1.133;go:0009809;hct;hydroxycinnamoyl transferase;ipr003480;k13065;pf02458	7	candidate
+lignin_core	HCT	no	TOY_LIG_CCR	Arabidopsis_thaliana	CCR	cinnamoyl-CoA reductase monolignol biosynthesis	go	go:0009809	1	candidate
+lignin_core	HCT	no	TOY_LIG_CAD	Arabidopsis_thaliana	CAD	cinnamyl alcohol dehydrogenase monolignol biosynthesis	go	go:0009809	1	candidate
+lignin_core	CCR	yes	TOY_LIG_HCT	Arabidopsis_thaliana	HCT	hydroxycinnamoyl transferase	go	go:0009809	1	candidate
+lignin_core	CCR	yes	TOY_LIG_CCR	Arabidopsis_thaliana	CCR	cinnamoyl-CoA reductase monolignol biosynthesis	ec;go;interpro;keyword;ko;pfam;symbol_or_alias	1.2.1.44;ccr;cinnamoyl-coa reductase;go:0009809;ipr016040;k09753;monolignol biosynthesis;pf07993	8	candidate
+lignin_core	CCR	yes	TOY_LIG_CAD	Arabidopsis_thaliana	CAD	cinnamyl alcohol dehydrogenase monolignol biosynthesis	go;keyword	go:0009809;monolignol biosynthesis	2	candidate
+lignin_core	CAD	yes	TOY_LIG_HCT	Arabidopsis_thaliana	HCT	hydroxycinnamoyl transferase	go	go:0009809	1	candidate
+lignin_core	CAD	yes	TOY_LIG_CCR	Arabidopsis_thaliana	CCR	cinnamoyl-CoA reductase monolignol biosynthesis	go;keyword	go:0009809;monolignol biosynthesis	2	candidate
+lignin_core	CAD	yes	TOY_LIG_CAD	Arabidopsis_thaliana	CAD	cinnamyl alcohol dehydrogenase monolignol biosynthesis	ec;go;interpro;keyword;ko;pfam;symbol_or_alias	1.1.1.195;cad;cinnamyl alcohol dehydrogenase;go:0009809;ipr002085;k00083;monolignol biosynthesis;pf00107	8	candidate

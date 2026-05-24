@@ -1,0 +1,6 @@
+module	expected_gene	required	status	candidate_count	candidate_gene_ids
+carotenoid_core	PSY	yes	duplicated	5	TOY_CAR_LCYB;TOY_CAR_PDS;TOY_CAR_PSY;TOY_CAR_ZDS;TOY_CAR_ZEP
+carotenoid_core	PDS	yes	duplicated	5	TOY_CAR_LCYB;TOY_CAR_PDS;TOY_CAR_PSY;TOY_CAR_ZDS;TOY_CAR_ZEP
+carotenoid_core	ZDS	yes	duplicated	5	TOY_CAR_LCYB;TOY_CAR_PDS;TOY_CAR_PSY;TOY_CAR_ZDS;TOY_CAR_ZEP
+carotenoid_core	LCYB	yes	duplicated	5	TOY_CAR_LCYB;TOY_CAR_PDS;TOY_CAR_PSY;TOY_CAR_ZDS;TOY_CAR_ZEP
+carotenoid_core	ZEP	no	duplicated	5	TOY_CAR_LCYB;TOY_CAR_PDS;TOY_CAR_PSY;TOY_CAR_ZDS;TOY_CAR_ZEP

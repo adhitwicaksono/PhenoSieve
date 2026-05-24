@@ -1,0 +1,6 @@
+module	expected_gene	copy_number
+aba_signaling_core	NCED	1
+aba_signaling_core	PYL	4
+aba_signaling_core	PP2C	4
+aba_signaling_core	SnRK2	4
+aba_signaling_core	ABF	4

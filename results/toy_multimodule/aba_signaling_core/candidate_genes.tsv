@@ -1,0 +1,18 @@
+module	expected_gene	required	gene_id	species	annotation_gene_symbol	annotation_text	matched_fields	matched_values	evidence_count	status
+aba_signaling_core	NCED	yes	TOY_ABA_NCED	Arabidopsis_thaliana	NCED	NCED abscisic acid biosynthesis	ec;go;interpro;keyword;ko;pfam;symbol_or_alias	1.13.11.51;9-cis-epoxycarotenoid dioxygenase;abscisic acid biosynthesis;go:0009688;ipr004294;k09840;nced;pf03055	8	candidate
+aba_signaling_core	PYL	yes	TOY_ABA_PYL	Arabidopsis_thaliana	PYL	PYR1-like abscisic acid receptor	go;interpro;keyword;ko;pfam;symbol_or_alias	abscisic acid receptor;abscisic acid receptor pyr/pyl/rcar;go:0009737;ipr019615;k14496;pf10604;pyl;pyr1-like	8	candidate
+aba_signaling_core	PYL	yes	TOY_ABA_PP2C	Arabidopsis_thaliana	PP2C	PP2C abscisic acid signaling	go	go:0009737	1	candidate
+aba_signaling_core	PYL	yes	TOY_ABA_SNRK2	Arabidopsis_thaliana	SnRK2	SnRK2 abscisic acid activated kinase	go	go:0009737	1	candidate
+aba_signaling_core	PYL	yes	TOY_ABA_ABF	Arabidopsis_thaliana	ABF	ABF bZIP transcription factor ABA-responsive element binding	go	go:0009737	1	candidate
+aba_signaling_core	PP2C	yes	TOY_ABA_PYL	Arabidopsis_thaliana	PYL	PYR1-like abscisic acid receptor	go	go:0009737	1	candidate
+aba_signaling_core	PP2C	yes	TOY_ABA_PP2C	Arabidopsis_thaliana	PP2C	PP2C abscisic acid signaling	ec;go;interpro;keyword;ko;pfam;symbol_or_alias	3.1.3.16;abscisic acid signaling;go:0009737;ipr001932;k14497;pf00481;pp2c;protein phosphatase 2c	8	candidate
+aba_signaling_core	PP2C	yes	TOY_ABA_SNRK2	Arabidopsis_thaliana	SnRK2	SnRK2 abscisic acid activated kinase	go	go:0009737	1	candidate
+aba_signaling_core	PP2C	yes	TOY_ABA_ABF	Arabidopsis_thaliana	ABF	ABF bZIP transcription factor ABA-responsive element binding	go	go:0009737	1	candidate
+aba_signaling_core	SnRK2	yes	TOY_ABA_PYL	Arabidopsis_thaliana	PYL	PYR1-like abscisic acid receptor	go	go:0009737	1	candidate
+aba_signaling_core	SnRK2	yes	TOY_ABA_PP2C	Arabidopsis_thaliana	PP2C	PP2C abscisic acid signaling	go	go:0009737	1	candidate
+aba_signaling_core	SnRK2	yes	TOY_ABA_SNRK2	Arabidopsis_thaliana	SnRK2	SnRK2 abscisic acid activated kinase	ec;go;interpro;keyword;ko;pfam;symbol_or_alias	2.7.11.1;abscisic acid activated kinase;go:0009737;ipr000719;k14498;pf00069;snf1-related protein kinase 2;snrk2	8	candidate
+aba_signaling_core	SnRK2	yes	TOY_ABA_ABF	Arabidopsis_thaliana	ABF	ABF bZIP transcription factor ABA-responsive element binding	go	go:0009737	1	candidate
+aba_signaling_core	ABF	no	TOY_ABA_PYL	Arabidopsis_thaliana	PYL	PYR1-like abscisic acid receptor	go	go:0009737	1	candidate
+aba_signaling_core	ABF	no	TOY_ABA_PP2C	Arabidopsis_thaliana	PP2C	PP2C abscisic acid signaling	go	go:0009737	1	candidate
+aba_signaling_core	ABF	no	TOY_ABA_SNRK2	Arabidopsis_thaliana	SnRK2	SnRK2 abscisic acid activated kinase	go	go:0009737	1	candidate
+aba_signaling_core	ABF	no	TOY_ABA_ABF	Arabidopsis_thaliana	ABF	ABF bZIP transcription factor ABA-responsive element binding	go;interpro;keyword;ko;pfam;symbol_or_alias	aba-responsive element binding;abf;abre-binding factor;bzip transcription factor;go:0009737;ipr004827;k14432;pf00170	8	candidate

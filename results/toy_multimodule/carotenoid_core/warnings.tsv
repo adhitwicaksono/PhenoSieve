@@ -1,0 +1,6 @@
+module	expected_gene	warning_type	message
+carotenoid_core	PSY	duplicated	5 candidate genes detected
+carotenoid_core	PDS	duplicated	5 candidate genes detected
+carotenoid_core	ZDS	duplicated	5 candidate genes detected
+carotenoid_core	LCYB	duplicated	5 candidate genes detected
+carotenoid_core	ZEP	duplicated	5 candidate genes detected

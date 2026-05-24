@@ -1,0 +1,10 @@
+module	expected_gene	required	gene_id	species	annotation_gene_symbol	annotation_text	matched_fields	matched_values	evidence_count	status
+nitrogen_assimilation_core	NR	yes	TOY_NIT_NR	Arabidopsis_thaliana	NR	nitrate reductase nitrate assimilation	ec;go;interpro;keyword;ko;pfam;symbol_or_alias	1.7.1.1;go:0042128;ipr001433;k00367;nitrate assimilation;nitrate reductase;nr;pf00175	8	candidate
+nitrogen_assimilation_core	NR	yes	TOY_NIT_NIR	Arabidopsis_thaliana	NIR	nitrite reductase nitrite assimilation	go	go:0042128	1	candidate
+nitrogen_assimilation_core	NIR	yes	TOY_NIT_NR	Arabidopsis_thaliana	NR	nitrate reductase nitrate assimilation	go	go:0042128	1	candidate
+nitrogen_assimilation_core	NIR	yes	TOY_NIT_NIR	Arabidopsis_thaliana	NIR	nitrite reductase nitrite assimilation	ec;go;interpro;keyword;ko;pfam;symbol_or_alias	1.7.7.1;go:0042128;ipr005117;k00362;nir;nitrite assimilation;nitrite reductase;pf03460	8	candidate
+nitrogen_assimilation_core	GS	yes	TOY_NIT_GS	Arabidopsis_thaliana	GS	glutamine synthetase ammonium assimilation	ec;go;interpro;keyword;ko;pfam;symbol_or_alias	6.3.1.2;ammonium assimilation;glutamine synthetase;go:0006542;gs;ipr008146;k01915;pf00120	8	candidate
+nitrogen_assimilation_core	GOGAT	yes	TOY_NIT_GOGAT	Arabidopsis_thaliana	GOGAT	glutamate synthase ferredoxin-dependent glutamate synthase	ec;go;interpro;keyword;ko;pfam;symbol_or_alias	1.4.7.1;ferredoxin-dependent glutamate synthase;glutamate synthase;go:0006537;gogat;ipr006982;k00265;pf04898	8	candidate
+nitrogen_assimilation_core	GOGAT	yes	TOY_NIT_GDH	Arabidopsis_thaliana	GDH	glutamate dehydrogenase ammonium metabolism	go	go:0006537	1	candidate
+nitrogen_assimilation_core	GDH	no	TOY_NIT_GOGAT	Arabidopsis_thaliana	GOGAT	glutamate synthase ferredoxin-dependent glutamate synthase	go	go:0006537	1	candidate
+nitrogen_assimilation_core	GDH	no	TOY_NIT_GDH	Arabidopsis_thaliana	GDH	glutamate dehydrogenase ammonium metabolism	ec;go;interpro;keyword;ko;pfam;symbol_or_alias	1.4.1.2;ammonium metabolism;gdh;glutamate dehydrogenase;go:0006537;ipr014362;k00261;pf00208	8	candidate

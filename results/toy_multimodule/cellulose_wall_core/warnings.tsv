@@ -1,0 +1,4 @@
+module	expected_gene	warning_type	message
+cellulose_wall_core	CESA1	duplicated	3 candidate genes detected
+cellulose_wall_core	CESA3	duplicated	3 candidate genes detected
+cellulose_wall_core	CESA6	duplicated	3 candidate genes detected
