@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "phenosieve"
+version = "0.1.0"
+description = "Curated gene-set sequence extraction and audit for comparative genomics"
+readme = "README.md"
+requires-python = ">=3.9"
+authors = [
+    { name = "Adhityo Wicaksono" }
+]
+dependencies = []
+
+[project.scripts]
+phenosieve = "phenosieve.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["phenosieve*"]
