@@ -1,0 +1,6 @@
+module	gene_symbol	aliases	keywords	ko	ec	pfam	interpro	go	required
+carotenoid_core	PSY	phytoene synthase	phytoene synthase; carotenoid biosynthesis	K02291	2.5.1.32	PF00494	IPR001441	GO:0016117	yes
+carotenoid_core	PDS	phytoene desaturase	phytoene desaturase; carotenoid desaturase	K00514	1.3.5.5	PF01593	IPR001488	GO:0016117	yes
+carotenoid_core	ZDS	zeta-carotene desaturase	zeta-carotene desaturase; carotenoid desaturase	K00514	1.3.5.-	PF01593	IPR001488	GO:0016117	yes
+carotenoid_core	LCYB	lycopene beta cyclase	lycopene beta cyclase; beta cyclase	K06443	5.5.1.19	PF05834	IPR008949	GO:0016117	yes
+carotenoid_core	ZEP	zeaxanthin epoxidase	zeaxanthin epoxidase; xanthophyll cycle	K09838	1.14.15.21	PF01494	IPR002938	GO:0016117	no

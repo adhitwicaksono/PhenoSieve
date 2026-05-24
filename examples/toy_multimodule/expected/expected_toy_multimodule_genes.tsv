@@ -1,0 +1,27 @@
+module	expected_gene	required	note
+carotenoid_core	PSY	yes	toy expected gene
+carotenoid_core	PDS	yes	toy expected gene
+carotenoid_core	ZDS	yes	toy expected gene
+carotenoid_core	LCYB	yes	toy expected gene
+carotenoid_core	ZEP	no	toy expected gene
+lignin_core	PAL	yes	toy expected gene
+lignin_core	C4H	yes	toy expected gene
+lignin_core	4CL	yes	toy expected gene
+lignin_core	HCT	no	toy expected gene
+lignin_core	CCR	yes	toy expected gene
+lignin_core	CAD	yes	toy expected gene
+cellulose_wall_core	CESA1	yes	toy expected gene
+cellulose_wall_core	CESA3	yes	toy expected gene
+cellulose_wall_core	CESA6	no	toy expected gene
+cellulose_wall_core	XTH	no	toy expected gene
+cellulose_wall_core	EXP	no	toy expected gene
+aba_signaling_core	NCED	yes	toy expected gene
+aba_signaling_core	PYL	yes	toy expected gene
+aba_signaling_core	PP2C	yes	toy expected gene
+aba_signaling_core	SnRK2	yes	toy expected gene
+aba_signaling_core	ABF	no	toy expected gene
+nitrogen_assimilation_core	NR	yes	toy expected gene
+nitrogen_assimilation_core	NIR	yes	toy expected gene
+nitrogen_assimilation_core	GS	yes	toy expected gene
+nitrogen_assimilation_core	GOGAT	yes	toy expected gene
+nitrogen_assimilation_core	GDH	no	toy expected gene

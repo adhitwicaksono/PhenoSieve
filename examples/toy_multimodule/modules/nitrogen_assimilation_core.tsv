@@ -1,0 +1,6 @@
+module	gene_symbol	aliases	keywords	ko	ec	pfam	interpro	go	required
+nitrogen_assimilation_core	NR	nitrate reductase	nitrate reductase; nitrate assimilation	K00367	1.7.1.1	PF00175	IPR001433	GO:0042128	yes
+nitrogen_assimilation_core	NIR	nitrite reductase	nitrite reductase; nitrite assimilation	K00362	1.7.7.1	PF03460	IPR005117	GO:0042128	yes
+nitrogen_assimilation_core	GS	glutamine synthetase	glutamine synthetase; ammonium assimilation	K01915	6.3.1.2	PF00120	IPR008146	GO:0006542	yes
+nitrogen_assimilation_core	GOGAT	glutamate synthase	glutamate synthase; ferredoxin-dependent glutamate synthase	K00265	1.4.7.1	PF04898	IPR006982	GO:0006537	yes
+nitrogen_assimilation_core	GDH	glutamate dehydrogenase	glutamate dehydrogenase; ammonium metabolism	K00261	1.4.1.2	PF00208	IPR014362	GO:0006537	no

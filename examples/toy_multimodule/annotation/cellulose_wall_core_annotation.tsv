@@ -1,0 +1,6 @@
+gene_id	species	source	gene_symbol	aliases	annotation_text	ko	ec	pfam	interpro	go	best_hit	evalue	bitscore	notes
+TOY_WALL_CESA1	Arabidopsis_thaliana	manual	CESA1	cellulose synthase A1	cellulose synthase primary cell wall	K10999	2.4.1.12	PF03552	IPR005150	GO:0030244	CESA1_ARATH	1e-100	400	toy positive control
+TOY_WALL_CESA3	Arabidopsis_thaliana	manual	CESA3	cellulose synthase A3	cellulose synthase primary cell wall	K10999	2.4.1.12	PF03552	IPR005150	GO:0030244	CESA3_ARATH	1e-100	400	toy positive control
+TOY_WALL_CESA6	Arabidopsis_thaliana	manual	CESA6	cellulose synthase A6	cellulose synthase-like primary cell wall	K10999	2.4.1.12	PF03552	IPR005150	GO:0030244	CESA6_ARATH	1e-95	380	toy optional control
+TOY_WALL_XTH	Arabidopsis_thaliana	manual	XTH	xyloglucan endotransglucosylase hydrolase	xyloglucan endotransglucosylase cell wall remodeling	K08235	2.4.1.207	PF00722	IPR016455	GO:0016762	XTH_ARATH	1e-65	270	toy optional control
+TOY_WALL_EXP	Arabidopsis_thaliana	manual	EXP	expansin	expansin cell wall loosening	K01051		PF01357	IPR007118	GO:0009826	EXP_ARATH	1e-55	240	toy optional control

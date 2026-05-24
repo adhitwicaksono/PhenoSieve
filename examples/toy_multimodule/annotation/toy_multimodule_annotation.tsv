@@ -1,0 +1,27 @@
+gene_id	species	source	gene_symbol	aliases	annotation_text	ko	ec	pfam	interpro	go	best_hit	evalue	bitscore	notes
+TOY_CAR_PSY	Arabidopsis_thaliana	manual	PSY	phytoene synthase	phytoene synthase involved in carotenoid biosynthesis	K02291	2.5.1.32	PF00494	IPR001441	GO:0016117	PSY_ARATH	1e-90	350	toy positive control
+TOY_CAR_PDS	Arabidopsis_thaliana	manual	PDS	phytoene desaturase	phytoene desaturase involved in carotenoid biosynthesis	K00514	1.3.5.5	PF01593	IPR001488	GO:0016117	PDS_ARATH	1e-85	330	toy positive control
+TOY_CAR_ZDS	Arabidopsis_thaliana	manual	ZDS	zeta-carotene desaturase	zeta-carotene desaturase	K00514	1.3.5.-	PF01593	IPR001488	GO:0016117	ZDS_ARATH	1e-70	310	toy positive control
+TOY_CAR_LCYB	Arabidopsis_thaliana	manual	LCYB	lycopene beta cyclase	lycopene beta cyclase	K06443	5.5.1.19	PF05834	IPR008949	GO:0016117	LCYB_ARATH	1e-75	320	toy positive control
+TOY_CAR_ZEP	Arabidopsis_thaliana	manual	ZEP	zeaxanthin epoxidase	zeaxanthin epoxidase xanthophyll cycle	K09838	1.14.15.21	PF01494	IPR002938	GO:0016117	ZEP_ARATH	1e-70	300	toy optional control
+TOY_LIG_PAL	Arabidopsis_thaliana	manual	PAL	phenylalanine ammonia-lyase	phenylalanine ammonia-lyase phenylpropanoid biosynthesis	K10775	4.3.1.24	PF00221	IPR001106	GO:0009699	PAL_ARATH	1e-90	350	toy positive control
+TOY_LIG_C4H	Arabidopsis_thaliana	manual	C4H	cinnamate 4-hydroxylase	cinnamate 4-hydroxylase cytochrome P450	K00487	1.14.14.91	PF00067	IPR001128	GO:0009699	C4H_ARATH	1e-80	320	toy positive control
+TOY_LIG_4CL	Arabidopsis_thaliana	manual	4CL	4-coumarate CoA ligase	4-coumarate-CoA ligase	K01904	6.2.1.12	PF00501	IPR000873	GO:0009699	4CL_ARATH	1e-80	320	toy positive control
+TOY_LIG_HCT	Arabidopsis_thaliana	manual	HCT	hydroxycinnamoyl transferase	hydroxycinnamoyl transferase	K13065	2.3.1.133	PF02458	IPR003480	GO:0009809	HCT_ARATH	1e-60	260	toy optional control
+TOY_LIG_CCR	Arabidopsis_thaliana	manual	CCR	cinnamoyl-CoA reductase	cinnamoyl-CoA reductase monolignol biosynthesis	K09753	1.2.1.44	PF07993	IPR016040	GO:0009809	CCR_ARATH	1e-75	300	toy positive control
+TOY_LIG_CAD	Arabidopsis_thaliana	manual	CAD	cinnamyl alcohol dehydrogenase	cinnamyl alcohol dehydrogenase monolignol biosynthesis	K00083	1.1.1.195	PF00107	IPR002085	GO:0009809	CAD_ARATH	1e-75	300	toy positive control
+TOY_WALL_CESA1	Arabidopsis_thaliana	manual	CESA1	cellulose synthase A1	cellulose synthase primary cell wall	K10999	2.4.1.12	PF03552	IPR005150	GO:0030244	CESA1_ARATH	1e-100	400	toy positive control
+TOY_WALL_CESA3	Arabidopsis_thaliana	manual	CESA3	cellulose synthase A3	cellulose synthase primary cell wall	K10999	2.4.1.12	PF03552	IPR005150	GO:0030244	CESA3_ARATH	1e-100	400	toy positive control
+TOY_WALL_CESA6	Arabidopsis_thaliana	manual	CESA6	cellulose synthase A6	cellulose synthase-like primary cell wall	K10999	2.4.1.12	PF03552	IPR005150	GO:0030244	CESA6_ARATH	1e-95	380	toy optional control
+TOY_WALL_XTH	Arabidopsis_thaliana	manual	XTH	xyloglucan endotransglucosylase hydrolase	xyloglucan endotransglucosylase cell wall remodeling	K08235	2.4.1.207	PF00722	IPR016455	GO:0016762	XTH_ARATH	1e-65	270	toy optional control
+TOY_WALL_EXP	Arabidopsis_thaliana	manual	EXP	expansin	expansin cell wall loosening	K01051		PF01357	IPR007118	GO:0009826	EXP_ARATH	1e-55	240	toy optional control
+TOY_ABA_NCED	Arabidopsis_thaliana	manual	NCED	9-cis-epoxycarotenoid dioxygenase	NCED abscisic acid biosynthesis	K09840	1.13.11.51	PF03055	IPR004294	GO:0009688	NCED_ARATH	1e-80	330	toy positive control
+TOY_ABA_PYL	Arabidopsis_thaliana	manual	PYL	abscisic acid receptor PYR/PYL/RCAR	PYR1-like abscisic acid receptor	K14496		PF10604	IPR019615	GO:0009737	PYL_ARATH	1e-70	300	toy positive control
+TOY_ABA_PP2C	Arabidopsis_thaliana	manual	PP2C	protein phosphatase 2C	PP2C abscisic acid signaling	K14497	3.1.3.16	PF00481	IPR001932	GO:0009737	PP2C_ARATH	1e-75	310	toy positive control
+TOY_ABA_SNRK2	Arabidopsis_thaliana	manual	SnRK2	SNF1-related protein kinase 2	SnRK2 abscisic acid activated kinase	K14498	2.7.11.1	PF00069	IPR000719	GO:0009737	SNRK2_ARATH	1e-75	310	toy positive control
+TOY_ABA_ABF	Arabidopsis_thaliana	manual	ABF	ABRE-binding factor	ABF bZIP transcription factor ABA-responsive element binding	K14432		PF00170	IPR004827	GO:0009737	ABF_ARATH	1e-55	240	toy optional control
+TOY_NIT_NR	Arabidopsis_thaliana	manual	NR	nitrate reductase	nitrate reductase nitrate assimilation	K00367	1.7.1.1	PF00175	IPR001433	GO:0042128	NR_ARATH	1e-100	400	toy positive control
+TOY_NIT_NIR	Arabidopsis_thaliana	manual	NIR	nitrite reductase	nitrite reductase nitrite assimilation	K00362	1.7.7.1	PF03460	IPR005117	GO:0042128	NIR_ARATH	1e-100	400	toy positive control
+TOY_NIT_GS	Arabidopsis_thaliana	manual	GS	glutamine synthetase	glutamine synthetase ammonium assimilation	K01915	6.3.1.2	PF00120	IPR008146	GO:0006542	GS_ARATH	1e-85	340	toy positive control
+TOY_NIT_GOGAT	Arabidopsis_thaliana	manual	GOGAT	glutamate synthase	glutamate synthase ferredoxin-dependent glutamate synthase	K00265	1.4.7.1	PF04898	IPR006982	GO:0006537	GOGAT_ARATH	1e-85	340	toy positive control
+TOY_NIT_GDH	Arabidopsis_thaliana	manual	GDH	glutamate dehydrogenase	glutamate dehydrogenase ammonium metabolism	K00261	1.4.1.2	PF00208	IPR014362	GO:0006537	GDH_ARATH	1e-70	300	toy optional control

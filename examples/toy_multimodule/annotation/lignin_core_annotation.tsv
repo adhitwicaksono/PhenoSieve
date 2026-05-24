@@ -1,0 +1,7 @@
+gene_id	species	source	gene_symbol	aliases	annotation_text	ko	ec	pfam	interpro	go	best_hit	evalue	bitscore	notes
+TOY_LIG_PAL	Arabidopsis_thaliana	manual	PAL	phenylalanine ammonia-lyase	phenylalanine ammonia-lyase phenylpropanoid biosynthesis	K10775	4.3.1.24	PF00221	IPR001106	GO:0009699	PAL_ARATH	1e-90	350	toy positive control
+TOY_LIG_C4H	Arabidopsis_thaliana	manual	C4H	cinnamate 4-hydroxylase	cinnamate 4-hydroxylase cytochrome P450	K00487	1.14.14.91	PF00067	IPR001128	GO:0009699	C4H_ARATH	1e-80	320	toy positive control
+TOY_LIG_4CL	Arabidopsis_thaliana	manual	4CL	4-coumarate CoA ligase	4-coumarate-CoA ligase	K01904	6.2.1.12	PF00501	IPR000873	GO:0009699	4CL_ARATH	1e-80	320	toy positive control
+TOY_LIG_HCT	Arabidopsis_thaliana	manual	HCT	hydroxycinnamoyl transferase	hydroxycinnamoyl transferase	K13065	2.3.1.133	PF02458	IPR003480	GO:0009809	HCT_ARATH	1e-60	260	toy optional control
+TOY_LIG_CCR	Arabidopsis_thaliana	manual	CCR	cinnamoyl-CoA reductase	cinnamoyl-CoA reductase monolignol biosynthesis	K09753	1.2.1.44	PF07993	IPR016040	GO:0009809	CCR_ARATH	1e-75	300	toy positive control
+TOY_LIG_CAD	Arabidopsis_thaliana	manual	CAD	cinnamyl alcohol dehydrogenase	cinnamyl alcohol dehydrogenase monolignol biosynthesis	K00083	1.1.1.195	PF00107	IPR002085	GO:0009809	CAD_ARATH	1e-75	300	toy positive control

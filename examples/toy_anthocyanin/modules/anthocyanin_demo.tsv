@@ -1,0 +1,6 @@
+module	gene_symbol	aliases	keywords	ko	ec	pfam	interpro	go	required
+anthocyanin	CHS	TT4; chalcone synthase	chalcone synthase; naringenin-chalcone synthase	K00660	2.3.1.74	PF00195	IPR018088	GO:0009813	yes
+anthocyanin	CHI	TT5; chalcone isomerase	chalcone isomerase	K01859	5.5.1.6	PF02431	IPR016087	GO:0009813	yes
+anthocyanin	DFR	TT3; dihydroflavonol reductase	dihydroflavonol reductase	K13082	1.1.1.219	PF00106	IPR016040	GO:0045552	yes
+anthocyanin	ANS	TT18; LDOX; anthocyanidin synthase	anthocyanidin synthase; leucoanthocyanidin dioxygenase	K05277	1.14.20.4	PF03171	IPR005123	GO:0009813	yes
+anthocyanin	UFGT	UGT78D2; UDP-glucose flavonoid glucosyltransferase	UDP-glucose flavonoid glucosyltransferase	K12930	2.4.1.x	PF00201	IPR002213	GO:0009813	no

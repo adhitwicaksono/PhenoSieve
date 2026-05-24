@@ -1,0 +1,6 @@
+module	gene_symbol	aliases	keywords	ko	ec	pfam	interpro	go	required
+cellulose_wall_core	CESA1	cellulose synthase A1	cellulose synthase; cellulose biosynthetic process	K10999	2.4.1.12	PF03552	IPR005150	GO:0030244	yes
+cellulose_wall_core	CESA3	cellulose synthase A3	cellulose synthase; primary cell wall	K10999	2.4.1.12	PF03552	IPR005150	GO:0030244	yes
+cellulose_wall_core	CESA6	cellulose synthase A6	cellulose synthase-like; primary cell wall	K10999	2.4.1.12	PF03552	IPR005150	GO:0030244	no
+cellulose_wall_core	XTH	xyloglucan endotransglucosylase hydrolase	xyloglucan endotransglucosylase; cell wall remodeling	K08235	2.4.1.207	PF00722	IPR016455	GO:0016762	no
+cellulose_wall_core	EXP	expansin	expansin; cell wall loosening	K01051		PF01357	IPR007118	GO:0009826	no

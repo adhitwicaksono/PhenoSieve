@@ -1,0 +1,7 @@
+module	gene_symbol	aliases	keywords	ko	ec	pfam	interpro	go	required
+lignin_core	PAL	phenylalanine ammonia-lyase	phenylalanine ammonia-lyase; phenylpropanoid biosynthesis	K10775	4.3.1.24	PF00221	IPR001106	GO:0009699	yes
+lignin_core	C4H	cinnamate 4-hydroxylase	cinnamate 4-hydroxylase; cytochrome P450	K00487	1.14.14.91	PF00067	IPR001128	GO:0009699	yes
+lignin_core	4CL	4-coumarate CoA ligase	4-coumarate-CoA ligase; phenylpropanoid biosynthesis	K01904	6.2.1.12	PF00501	IPR000873	GO:0009699	yes
+lignin_core	HCT	hydroxycinnamoyl transferase	hydroxycinnamoyl-CoA shikimate/quinate hydroxycinnamoyltransferase	K13065	2.3.1.133	PF02458	IPR003480	GO:0009809	no
+lignin_core	CCR	cinnamoyl-CoA reductase	cinnamoyl-CoA reductase; monolignol biosynthesis	K09753	1.2.1.44	PF07993	IPR016040	GO:0009809	yes
+lignin_core	CAD	cinnamyl alcohol dehydrogenase	cinnamyl alcohol dehydrogenase; monolignol biosynthesis	K00083	1.1.1.195	PF00107	IPR002085	GO:0009809	yes
